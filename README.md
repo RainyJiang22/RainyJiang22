@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hi，我是RainyJiang
 
-<!--
-**RainyJiang22/RainyJiang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mCyp&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
 
-Here are some ideas to get you started:
+#### 在哪里找到我：
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+|                            掘金                            |  
+| :--------------------------------------------------------: | 
+| [点我](https://juejin.im/user/3526889033444855/activities) | 
+
+#### 关于我:
+
+- Android 菜鸟程序员，学过一丢丢 React Native \ Jenkins
+- 不断学习提升中
+- 📫 jackytallow@qq.com
+
+#### 最近更新：
+
+<!-- BLOG-POST-LIST:START -->
+- [【一起学习Android开源框架】Retrofit的简单使用(第一部分)](https://juejin.cn/post/7014385736673656840)
+- [盘点那些开发中用到的设计模式（第二部分）](https://juejin.cn/post/7004407107504046111)
+- [一起学习Android开源框架&解析Okhttp的五种拦截器(第五部分)](https://juejin.cn/post/7000402758847168520)
+- [盘点那些开发中用到的设计模式(第一部分）](https://juejin.cn/post/6998464607031394341)
+- [【一起学习Android开源框架】OKHttp4.9.1源码解析](https://juejin.cn/post/6997753084449390623)
+<!-- BLOG-POST-LIST:END -->
+
+
+### 🎉 My Open Source Project
+
+<a href="https://github.com/RainyJiang22/Github_RN">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RainyJiang22&repo=react-music&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/RainyJiang22/ITalker-master">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RainyJiang22&repo=music&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
