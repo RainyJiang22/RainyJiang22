@@ -1,6 +1,6 @@
 ### Hi，我是RainyJiang
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mCyp&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RainyJiang22&bg_color=30,C2FFD8,465EFB&title_color=fff&text_color=fff)
 
 #### 在哪里找到我：
 
