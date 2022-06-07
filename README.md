@@ -23,10 +23,3 @@
 - [盘点那些开发中用到的设计模式(第一部分）](https://juejin.cn/post/6998464607031394341)
 - [【一起学习Android开源框架】OKHttp4.9.1源码解析](https://juejin.cn/post/6997753084449390623)
 <!-- BLOG-POST-LIST:END -->
-
-
-### 🎉 My Open Source Project
-
-<a href="https://github.com/RainyJiang22/Github_RN">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=RainyJiang22&repo=Github_RN&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
