@@ -11,6 +11,7 @@
 
 #### 关于我:
 - 🙋 Android 菜鸟程序员，学过一丢丢 React Native \ Jenkins
+- 正在学习Kotlin 协程
 - 正在学习Jetpack，Jetpack Compose
 - 不断学习提升中
 - 📫 jackytallow@qq.com
