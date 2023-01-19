@@ -40,7 +40,7 @@ jobs:
       - name: Push new README.md
         uses: mikeal/publish-to-github-action@master
         env:
-          GITHUB_TOKEN: ${{ secrets.AC_TOKEN }}
+          GITHUB_TOKEN: ${{ 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 }}
         
   blog:
     timeout-minutes: 10
