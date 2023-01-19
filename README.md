@@ -20,6 +20,7 @@
 
 ![Android](https://img.shields.io/badge/Android-%2335495e.svg?style=for-the-badge&logo=Android&logoColor=%FF35D06D)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%2335495e.svg?style=for-the-badge&logo=jenkins&logoColor=%FFC62327)
+![Kotlin](https://img.shields.io/badge/Jenkins-%2335495e.svg?style=for-the-badge&logo=jenkins&logoColor=%FFFCBF40)
 
 #### 最近更新：
 <!-- BLOG-POST-LIST:START -->
