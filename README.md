@@ -25,10 +25,10 @@
 
 #### 最近更新：
 <!-- BLOG-POST-LIST:START -->
+- [初学Compose：无缝衔接xml的神奇魔法](https://juejin.cn/post/7288151382533390395)
 - [有人说，Kotlin Flow是Sequence更好的替代品？](https://juejin.cn/post/7253673249158234169)
 - [谱写Kotlin面试指南三部曲-Flow篇](https://juejin.cn/post/7222982459583152188)
 - [谱写Kotlin面试指南三部曲-协程篇](https://juejin.cn/post/7220235452292137019)
 - [谱写Kotlin面试指南三部曲-基础篇](https://juejin.cn/post/7213582722329952312)
-- [请收下这些Kotlin开发必知必会的编码实践方式](https://juejin.cn/post/7202970020233134140)
 <!-- BLOG-POST-LIST:END -->
 
