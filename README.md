@@ -10,10 +10,11 @@
 
 
 #### 关于我:
-- 🙋 Android 程序员，学过一丢丢 React Native \ Jenkins
+- 🙋 Android 程序员，学过React Native \ Jenkins \ Python
 - 正在学习Kotlin 协程
 - 正在学习Jetpack，Jetpack Compose
 - 正在研究性能优化相关领域
+- 正在学习Python,爬虫相关
 - 不断学习提升中
 - 📫 jackytallow@qq.com
 
