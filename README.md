@@ -27,10 +27,10 @@
 
 #### 最近更新：
 <!-- BLOG-POST-LIST:START -->
+- [状态管理：Compose的隐形炸弹？从重组陷阱到性能救赎](https://juejin.cn/post/7505042954199679013)
 - [带着问题学，Compose附带效应&lpar;Side Effect&rpar;一探究竟](https://juejin.cn/post/7464050299616755775)
 - [带着问题学，Compose中的State一网打尽](https://juejin.cn/post/7399530589987504128)
 - [2024年中，聊聊我的项目中十大代码优化技巧](https://juejin.cn/post/7377200392059682831)
 - [初学Compose：无缝衔接xml的神奇魔法](https://juejin.cn/post/7288151382533390395)
-- [有人说，Kotlin Flow是Sequence更好的替代品？](https://juejin.cn/post/7253673249158234169)
 <!-- BLOG-POST-LIST:END -->
 
